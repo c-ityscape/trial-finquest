@@ -1,0 +1,119 @@
+{
+    "id": "stk001",
+    "title": "Stock Market",
+    "description": "Test your knowledge about the stock market with these multiple-choice questions.",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id": "stk001q001",
+        "question": "What does IPO stand for?",
+        "answers": [
+          {"identifier": "A", "answer": "Individual Profit Offer"},
+          {"identifier": "B", "answer": "Initial Public Offering"},
+          {"identifier": "C", "answer": "International Portfolio Organization"},
+          {"identifier": "D", "answer": "Initial Private Ownership"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "stk001q002",
+        "question": "What is the primary function of a stock exchange?",
+        "answers": [
+          {"identifier": "A", "answer": "To provide loans to companies"},
+          {"identifier": "B", "answer": "To facilitate the buying and selling of stocks"},
+          {"identifier": "C", "answer": "To regulate interest rates"},
+          {"identifier": "D", "answer": "To manage government bonds"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "stk001q003",
+        "question": "Which of the following is a measure of a stock's volatility?",
+        "answers": [
+          {"identifier": "A", "answer": "PE Ratio"},
+          {"identifier": "B", "answer": "Earnings per Share (EPS)"},
+          {"identifier": "C", "answer": "Beta"},
+          {"identifier": "D", "answer": "Dividend Yield"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "stk001q004",
+        "question": "What does the term 'bull market' refer to?",
+        "answers": [
+          {"identifier": "A", "answer": "A market with decreasing prices"},
+          {"identifier": "B", "answer": "A market with increasing prices"},
+          {"identifier": "C", "answer": "A market with no price movement"},
+          {"identifier": "D", "answer": "A market with high unemployment"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "stk001q005",
+        "question": "What is a blue-chip stock?",
+        "answers": [
+          {"identifier": "A", "answer": "A stock with a low market capitalization"},
+          {"identifier": "B", "answer": "A stock with high growth potential"},
+          {"identifier": "C", "answer": "A stock of a well-established, financially stable company"},
+          {"identifier": "D", "answer": "A stock with a high dividend yield"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "stk001q006",
+        "question": "What does the term 'bear market' refer to?",
+        "answers": [
+          {"identifier": "A", "answer": "A market with increasing prices"},
+          {"identifier": "B", "answer": "A market with decreasing prices"},
+          {"identifier": "C", "answer": "A market with no price movement"},
+          {"identifier": "D", "answer": "A market with high inflation"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "stk001q007",
+        "question": "Which of the following represents ownership in a company?",
+        "answers": [
+          {"identifier": "A", "answer": "Corporate bonds"},
+          {"identifier": "B", "answer": "Preferred stock"},
+          {"identifier": "C", "answer": "Treasury bills"},
+          {"identifier": "D", "answer": "Common stock"}
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "id": "stk001q008",
+        "question": "What does the P/E ratio measure?",
+        "answers": [
+          {"identifier": "A", "answer": "The price of a stock compared to its earnings per share"},
+          {"identifier": "B", "answer": "The price of a stock compared to its book value"},
+          {"identifier": "C", "answer": "The price of a stock compared to its dividend yield"},
+          {"identifier": "D", "answer": "The price of a stock compared to its market capitalization"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "stk001q009",
+        "question": "What is a dividend?",
+        "answers": [
+          {"identifier": "A", "answer": "A tax levied on stock transactions"},
+          {"identifier": "B", "answer": "A share of a company's profits distributed to shareholders"},
+          {"identifier": "C", "answer": "A fee charged by brokers for executing trades"},
+          {"identifier": "D", "answer": "A penalty for early withdrawal from a brokerage account"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "stk001q010",
+        "question": "What is the role of a stockbroker?",
+        "answers": [
+          {"identifier": "A", "answer": "To buy and sell stocks on behalf of clients"},
+          {"identifier": "B", "answer": "To manage the company's financial records"},
+          {"identifier": "C", "answer": "To regulate stock exchanges"},
+          {"identifier": "D", "answer": "To provide loans to investors"}
+        ],
+        "correct_answer": "A"
+      }
+    ]
+  }
+  

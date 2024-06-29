@@ -1,0 +1,119 @@
+{
+    "id": "inv001",
+    "title": "Investment",
+    "description": "Test your knowledge about investment with these multiple-choice questions.",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id": "inv001q001",
+        "question": "Which of the following is NOT a type of investment?",
+        "answers": [
+          {"identifier": "A", "answer": "Stocks"},
+          {"identifier": "B", "answer": "Bonds"},
+          {"identifier": "C", "answer": "Savings Account"},
+          {"identifier": "D", "answer": "Loans"}
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "id": "inv001q002",
+        "question": "What does ROI stand for in investment?",
+        "answers": [
+          {"identifier": "A", "answer": "Return on Investment"},
+          {"identifier": "B", "answer": "Rate of Income"},
+          {"identifier": "C", "answer": "Risk of Investment"},
+          {"identifier": "D", "answer": "Return on Income"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "inv001q003",
+        "question": "What is a dividend?",
+        "answers": [
+          {"identifier": "A", "answer": "The price of a stock"},
+          {"identifier": "B", "answer": "A share of a company's profits distributed to shareholders"},
+          {"identifier": "C", "answer": "A type of bond"},
+          {"identifier": "D", "answer": "An investment fund"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "inv001q004",
+        "question": "Which of the following investment options typically offers the highest potential return?",
+        "answers": [
+          {"identifier": "A", "answer": "Stocks"},
+          {"identifier": "B", "answer": "Bonds"},
+          {"identifier": "C", "answer": "Savings Account"},
+          {"identifier": "D", "answer": "Certificates of Deposit (CDs)"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "inv001q005",
+        "question": "What is diversification in investment?",
+        "answers": [
+          {"identifier": "A", "answer": "Investing in a variety of assets to reduce risk"},
+          {"identifier": "B", "answer": "Investing only in one asset"},
+          {"identifier": "C", "answer": "Investing in high-risk assets"},
+          {"identifier": "D", "answer": "Investing in assets with no potential return"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "inv001q006",
+        "question": "What does 'bull market' refer to?",
+        "answers": [
+          {"identifier": "A", "answer": "A market where prices are rising"},
+          {"identifier": "B", "answer": "A market where prices are falling"},
+          {"identifier": "C", "answer": "A market with no changes in prices"},
+          {"identifier": "D", "answer": "A market with high interest rates"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "inv001q007",
+        "question": "Which of the following is a key factor to consider when investing in stocks?",
+        "answers": [
+          {"identifier": "A", "answer": "Inflation rate"},
+          {"identifier": "B", "answer": "Currency exchange rates"},
+          {"identifier": "C", "answer": "Dividend yield"},
+          {"identifier": "D", "answer": "Weather conditions"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "inv001q008",
+        "question": "What does the term 'asset allocation' refer to in investment?",
+        "answers": [
+          {"identifier": "A", "answer": "The process of converting assets into cash"},
+          {"identifier": "B", "answer": "Spreading investments across different asset classes"},
+          {"identifier": "C", "answer": "The total value of all assets"},
+          {"identifier": "D", "answer": "The interest rate of an investment"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "inv001q009",
+        "question": "What is a mutual fund?",
+        "answers": [
+          {"identifier": "A", "answer": "A fund managed by a single individual"},
+          {"identifier": "B", "answer": "A fund that invests only in stocks"},
+          {"identifier": "C", "answer": "A fund managed by a group of investors"},
+          {"identifier": "D", "answer": "A fund with no potential return"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "inv001q010",
+        "question": "What is the purpose of an emergency fund in investment?",
+        "answers": [
+          {"identifier": "A", "answer": "To invest in high-risk assets"},
+          {"identifier": "B", "answer": "To have money available for unexpected expenses"},
+          {"identifier": "C", "answer": "To invest in long-term assets"},
+          {"identifier": "D", "answer": "To invest in short-term assets"}
+        ],
+        "correct_answer": "B"
+      }
+    ]
+  }
+  

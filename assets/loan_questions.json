@@ -1,0 +1,119 @@
+{
+    "id": "loan001",
+    "title": "Loan",
+    "description": "Test your knowledge about loans with these multiple-choice questions.",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id": "loan001q001",
+        "question": "What is the definition of a loan?",
+        "answers": [
+          {"identifier": "A", "answer": "A type of investment"},
+          {"identifier": "B", "answer": "A financial transaction where money is borrowed and must be paid back with interest"},
+          {"identifier": "C", "answer": "A donation without repayment"},
+          {"identifier": "D", "answer": "A form of insurance"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "loan001q002",
+        "question": "What is collateral in the context of loans?",
+        "answers": [
+          {"identifier": "A", "answer": "The interest rate charged on the loan"},
+          {"identifier": "B", "answer": "The term used for a loan that doesn't require repayment"},
+          {"identifier": "C", "answer": "Property or assets that a borrower offers to secure a loan"},
+          {"identifier": "D", "answer": "The bank that provides the loan"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "loan001q003",
+        "question": "Which of the following is an example of an unsecured loan?",
+        "answers": [
+          {"identifier": "A", "answer": "Mortgage loan"},
+          {"identifier": "B", "answer": "Car loan"},
+          {"identifier": "C", "answer": "Personal loan"},
+          {"identifier": "D", "answer": "Student loan"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "loan001q004",
+        "question": "What is the term for the interest rate that doesn't change over the life of the loan?",
+        "answers": [
+          {"identifier": "A", "answer": "Variable rate"},
+          {"identifier": "B", "answer": "Fixed rate"},
+          {"identifier": "C", "answer": "Prime rate"},
+          {"identifier": "D", "answer": "APR"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "loan001q005",
+        "question": "What does APR stand for?",
+        "answers": [
+          {"identifier": "A", "answer": "Annual Percentage Rate"},
+          {"identifier": "B", "answer": "Annual Payment Return"},
+          {"identifier": "C", "answer": "Average Principal Rate"},
+          {"identifier": "D", "answer": "All Purpose Return"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "loan001q006",
+        "question": "What does it mean if a loan has a prepayment penalty?",
+        "answers": [
+          {"identifier": "A", "answer": "You can pay it off early without any additional fees"},
+          {"identifier": "B", "answer": "You can only make payments on it at specific times"},
+          {"identifier": "C", "answer": "You must pay a fee if you pay it off before the agreed-upon time"},
+          {"identifier": "D", "answer": "The interest rate increases if you miss a payment"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "loan001q007",
+        "question": "What type of loan is typically used to purchase a home?",
+        "answers": [
+          {"identifier": "A", "answer": "Personal loan"},
+          {"identifier": "B", "answer": "Mortgage loan"},
+          {"identifier": "C", "answer": "Payday loan"},
+          {"identifier": "D", "answer": "Title loan"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "loan001q008",
+        "question": "Which of the following factors influences the interest rate on a loan?",
+        "answers": [
+          {"identifier": "A", "answer": "The borrower's income"},
+          {"identifier": "B", "answer": "The length of the loan term"},
+          {"identifier": "C", "answer": "The borrower's credit score"},
+          {"identifier": "D", "answer": "The loan amount"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "loan001q009",
+        "question": "What is the grace period on a loan?",
+        "answers": [
+          {"identifier": "A", "answer": "The time when interest starts accruing on the loan"},
+          {"identifier": "B", "answer": "The period after the due date during which a payment can still be made without penalty"},
+          {"identifier": "C", "answer": "The time when the loan amount is disbursed"},
+          {"identifier": "D", "answer": "The period before the loan is approved"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "loan001q010",
+        "question": "Which type of loan typically has the lowest interest rate?",
+        "answers": [
+          {"identifier": "A", "answer": "Personal loan"},
+          {"identifier": "B", "answer": "Payday loan"},
+          {"identifier": "C", "answer": "Secured loan"},
+          {"identifier": "D", "answer": "Title loan"}
+        ],
+        "correct_answer": "C"
+      }
+    ]
+  }
+  

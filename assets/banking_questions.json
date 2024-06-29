@@ -1,0 +1,119 @@
+{
+    "id": "bk001",
+    "title": "Banking",
+    "description": "Test your knowledge about banking with these multiple-choice questions.",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id": "bk001q001",
+        "question": "What does ATM stand for?",
+        "answers": [
+          {"identifier": "A", "answer": "Automatic Teller Machine"},
+          {"identifier": "B", "answer": "Automated Teller Machine"},
+          {"identifier": "C", "answer": "Automatic Transaction Machine"},
+          {"identifier": "D", "answer": "Automated Transaction Machine"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "bk001q002",
+        "question": "Which of the following is NOT a type of bank account?",
+        "answers": [
+          {"identifier": "A", "answer": "Checking Account"},
+          {"identifier": "B", "answer": "Saving Account"},
+          {"identifier": "C", "answer": "Investment Account"},
+          {"identifier": "D", "answer": "Certificate of Deposit (CD)"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "bk001q003",
+        "question": "What is the purpose of FDIC in the United States?",
+        "answers": [
+          {"identifier": "A", "answer": "To regulate the stock market"},
+          {"identifier": "B", "answer": "To insure bank deposits"},
+          {"identifier": "C", "answer": "To manage currency exchange rates"},
+          {"identifier": "D", "answer": "To oversee mortgage lending"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "bk001q004",
+        "question": "What is the primary role of the Federal Reserve (the Fed) in the U.S.?",
+        "answers": [
+          {"identifier": "A", "answer": "Issuing currency"},
+          {"identifier": "B", "answer": "Regulating commercial banks"},
+          {"identifier": "C", "answer": "Setting fiscal policy"},
+          {"identifier": "D", "answer": "Collecting taxes"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "bk001q005",
+        "question": "What is the interest rate that banks charge each other for overnight loans called?",
+        "answers": [
+          {"identifier": "A", "answer": "Prime rate"},
+          {"identifier": "B", "answer": "LIBOR (London Interbank Offered Rate)"},
+          {"identifier": "C", "answer": "Discount rate"},
+          {"identifier": "D", "answer": "Federal funds rate"}
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "id": "bk001q006",
+        "question": "What is a common function of a bank's routing number?",
+        "answers": [
+          {"identifier": "A", "answer": "Identifying a bank branch"},
+          {"identifier": "B", "answer": "Identifying a customer's account number"},
+          {"identifier": "C", "answer": "Identifying a bank's stock price"},
+          {"identifier": "D", "answer": "Identifying a bank's CEO"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "bk001q007",
+        "question": "Which of the following is a type of loan where the borrower uses an asset as collateral?",
+        "answers": [
+          {"identifier": "A", "answer": "Personal loan"},
+          {"identifier": "B", "answer": "Unsecured loan"},
+          {"identifier": "C", "answer": "Secured loan"},
+          {"identifier": "D", "answer": "Payday loan"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "bk001q008",
+        "question": "What is the maximum amount of money a bank is required to insure per depositor in the U.S. under FDIC?",
+        "answers": [
+          {"identifier": "A", "answer": "$100,000"},
+          {"identifier": "B", "answer": "$250,000"},
+          {"identifier": "C", "answer": "$500,000"},
+          {"identifier": "D", "answer": "$1,000,000"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "bk001q009",
+        "question": "What is the term for the interest rate charged by a central bank to commercial banks for short-term loans?",
+        "answers": [
+          {"identifier": "A", "answer": "Discount rate"},
+          {"identifier": "B", "answer": "Prime rate"},
+          {"identifier": "C", "answer": "LIBOR"},
+          {"identifier": "D", "answer": "Treasury rate"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "bk001q010",
+        "question": "Which of the following is NOT a function of a bank?",
+        "answers": [
+          {"identifier": "A", "answer": "Lending money"},
+          {"identifier": "B", "answer": "Accepting deposits"},
+          {"identifier": "C", "answer": "Issuing credit cards"},
+          {"identifier": "D", "answer": "Regulating stock markets"}
+        ],
+        "correct_answer": "D"
+      }
+    ]
+  }
+  

@@ -1,0 +1,119 @@
+{
+    "id": "re001",
+    "title": "Real Estate",
+    "description": "Test your knowledge about real estate with these multiple-choice questions.",
+    "time_seconds": 900,
+    "questions": [
+      {
+        "id": "re001q001",
+        "question": "What is the primary factor influencing property value?",
+        "answers": [
+          {"identifier": "A", "answer": "Location"},
+          {"identifier": "B", "answer": "Property size"},
+          {"identifier": "C", "answer": "Building materials"},
+          {"identifier": "D", "answer": "Age of the property"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "re001q002",
+        "question": "Which type of property typically offers higher rental yields?",
+        "answers": [
+          {"identifier": "A", "answer": "Residential apartments"},
+          {"identifier": "B", "answer": "Commercial buildings"},
+          {"identifier": "C", "answer": "Single-family homes"},
+          {"identifier": "D", "answer": "Vacation homes"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "re001q003",
+        "question": "What does the term 'MLS' stand for in real estate?",
+        "answers": [
+          {"identifier": "A", "answer": "Multiple Listing Service"},
+          {"identifier": "B", "answer": "Mortgage Loan Service"},
+          {"identifier": "C", "answer": "Market Listing System"},
+          {"identifier": "D", "answer": "Master Leasing Schedule"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "re001q004",
+        "question": "Which type of mortgage usually has a fixed interest rate for the entire loan term?",
+        "answers": [
+          {"identifier": "A", "answer": "Adjustable-rate mortgage (ARM)"},
+          {"identifier": "B", "answer": "Interest-only mortgage"},
+          {"identifier": "C", "answer": "Balloon mortgage"},
+          {"identifier": "D", "answer": "Fixed-rate mortgage"}
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "id": "re001q005",
+        "question": "Which factor is NOT typically considered when appraising a property?",
+        "answers": [
+          {"identifier": "A", "answer": "Comparable properties"},
+          {"identifier": "B", "answer": "Property taxes"},
+          {"identifier": "C", "answer": "Property condition"},
+          {"identifier": "D", "answer": "Recent sales data"}
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "id": "re001q006",
+        "question": "What does 'ROI' stand for in real estate investing?",
+        "answers": [
+          {"identifier": "A", "answer": "Return on Investment"},
+          {"identifier": "B", "answer": "Real Estate Ownership Index"},
+          {"identifier": "C", "answer": "Rental Opportunity Indicator"},
+          {"identifier": "D", "answer": "Revenue of Interest"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "re001q007",
+        "question": "What is the purpose of a title search in real estate?",
+        "answers": [
+          {"identifier": "A", "answer": "To verify property ownership"},
+          {"identifier": "B", "answer": "To determine property taxes"},
+          {"identifier": "C", "answer": "To assess property condition"},
+          {"identifier": "D", "answer": "To calculate depreciation"}
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "id": "re001q008",
+        "question": "Which of the following is NOT a common method of real estate financing?",
+        "answers": [
+          {"identifier": "A", "answer": "Reverse mortgage"},
+          {"identifier": "B", "answer": "Bridge loan"},
+          {"identifier": "C", "answer": "Collateralized debt obligation"},
+          {"identifier": "D", "answer": "FHA loan"}
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "id": "re001q009",
+        "question": "What does the term 'closing costs' refer to in real estate transactions?",
+        "answers": [
+          {"identifier": "A", "answer": "Fees associated with property inspections"},
+          {"identifier": "B", "answer": "The price paid for the property"},
+          {"identifier": "C", "answer": "Expenses incurred during the mortgage process"},
+          {"identifier": "D", "answer": "Legal and administrative fees at the time of closing"}
+        ],
+        "correct_answer": "D"
+      },
+      {
+        "id": "re001q010",
+        "question": "What does 'REIT' stand for in real estate investing?",
+        "answers": [
+          {"identifier": "A", "answer": "Real Estate Investment Tax"},
+          {"identifier": "B", "answer": "Real Estate Investment Trust"},
+          {"identifier": "C", "answer": "Rental Equity Investment Tool"},
+          {"identifier": "D", "answer": "Residential Estate Investment Trust"}
+        ],
+        "correct_answer": "B"
+      }
+    ]
+  }
+  
